@@ -1,5 +1,5 @@
-### Hey 👋, I'm Rens
-
+<h3 align="center">Hey 👋, I'm Rens</3> 
+<h3 align="center">A fullstack developer based in the Netherlands</h3>
 <!--
 **renshul/renshul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
