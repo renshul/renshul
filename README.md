@@ -1,17 +1,20 @@
-<h3 align="center">Hey 👋, I'm Rens</3> 
-<hr />
-<h3 align="center">A fullstack developer based in the Netherlands</h3>
+Rens
+Fullstack Developer based in the Netherlands
 
+### About Me
 
-<p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=40 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" width=40 />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40/>
-</p>
+Focused on robust backend architecture, database design, and modern web applications. Committed to clean code, system security, scalability, and maintainable software structure.
 
+### Technical Stack
 
-<p align="left">
+* **Backend:** PHP, Symfony, Node.js, Python
+* **Frontend:** JavaScript, React, React Native
+* **Databases & Architecture:** PostgreSQL, MariaDB, Database Structure & Design
+* **DevOps & Infrastructure:** Linux, CI/CD
+* **Currently Learning:** C#, .NET, Angular, Vue.js
 
-</p>
+### Core Principles
+
+* **Software Structure:** Designing modular, clean, and maintainable codebases.
+* **Safety:** Implementing secure coding practices and robust data protection.
+* **Scalability:** Building architectures designed to handle growth and increased load efficiently.
